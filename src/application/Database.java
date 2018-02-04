@@ -10,7 +10,7 @@ import java.util.ArrayList;
 public class Database {
     //TODO: enter the following information
 	//Make sure you have columns for 'username' and 'password'
-    private final String url = "jdbc:mysql://csis-project.cw4jd6j1nnod.us-west-2.rds.amazonaws.com:3306/";
+    private final String url = "DATABASE_URL";
     private final String username = "DB_USERNAME_HERE";
     private final String password = "DB_PASS_HERE";
     private final String database = "DATABASE_NAME";
