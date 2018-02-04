@@ -3,7 +3,7 @@
 LA Foodie is a software created to find restaurants for the<br>
 users and save their favorites on a database using the Yelp API<br>
 
-[![Screen Shot](http://masesk.com/img/4.jpg)](http://georgeosddev.github.com/markdown-edit)
+![Screen Shot](http://masesk.com/img/4.jpg)
 
 
 ## Features
